@@ -1,0 +1,15 @@
+G:\GB\Seminar\Homework\lesson4\digitssum\bin\Debug\net6.0\digitssum.exe
+G:\GB\Seminar\Homework\lesson4\digitssum\bin\Debug\net6.0\digitssum.deps.json
+G:\GB\Seminar\Homework\lesson4\digitssum\bin\Debug\net6.0\digitssum.runtimeconfig.json
+G:\GB\Seminar\Homework\lesson4\digitssum\bin\Debug\net6.0\digitssum.dll
+G:\GB\Seminar\Homework\lesson4\digitssum\bin\Debug\net6.0\digitssum.pdb
+G:\GB\Seminar\Homework\lesson4\digitssum\obj\Debug\net6.0\digitssum.csproj.AssemblyReference.cache
+G:\GB\Seminar\Homework\lesson4\digitssum\obj\Debug\net6.0\digitssum.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\Homework\lesson4\digitssum\obj\Debug\net6.0\digitssum.AssemblyInfoInputs.cache
+G:\GB\Seminar\Homework\lesson4\digitssum\obj\Debug\net6.0\digitssum.AssemblyInfo.cs
+G:\GB\Seminar\Homework\lesson4\digitssum\obj\Debug\net6.0\digitssum.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\Homework\lesson4\digitssum\obj\Debug\net6.0\digitssum.dll
+G:\GB\Seminar\Homework\lesson4\digitssum\obj\Debug\net6.0\refint\digitssum.dll
+G:\GB\Seminar\Homework\lesson4\digitssum\obj\Debug\net6.0\digitssum.pdb
+G:\GB\Seminar\Homework\lesson4\digitssum\obj\Debug\net6.0\digitssum.genruntimeconfig.cache
+G:\GB\Seminar\Homework\lesson4\digitssum\obj\Debug\net6.0\ref\digitssum.dll
